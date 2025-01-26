@@ -22,3 +22,13 @@ This is a sample project README file.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Environment Variables
+
+Copy `.env.example` to `.env` and update the following variables:
+
+- `PORT`: Server port (default: 3000)
+- `DB_HOST`: Database host
+- `DB_NAME`: Database name
+- `JWT_SECRET`: Secret key for JWT authentication
+- `API_KEY`: Your API key for external services
