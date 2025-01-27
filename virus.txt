@@ -1,0 +1,4 @@
+A computer virus is a type of malicious software that can replicate itself and spread to other computers.
+Viruses can damage or corrupt data, steal information, or take control of computer systems.
+Common types include file infectors, boot sector viruses, macro viruses, and polymorphic viruses.
+Users should maintain updated antivirus software and avoid suspicious downloads to prevent infection.
